@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Mohomed-wazeem
 
 ### MERN Stack Developer 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://media.tenor.com/some-specific-id.gif">
 
 - 🌱 I’m currently learning **MERN Stack** (MongoDB, Express.js, React.js, Node.js).  
 - 👯 I’m looking to collaborate on **Machine Learning** and **AI** projects.  
@@ -9,6 +9,7 @@
 - 💬 Ask me about **MERN Stack, Web Development, and Tech Trends**!  
 - 📫 How to reach me:  
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/Mohomed-wazeem/)  
+  [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Mohomed-wazeem)  
 
 ---
 
@@ -18,8 +19,8 @@
 
 ---
 
-![Mohomed-wazeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
+![Mohomed-wazeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohomed-wazeem&theme=dark&show_icons=true&&hide=issues,contribs)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/WazeemDeveloper?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/WazeemDeveloper?ext=contest&theme=dark)](https://leetcode.com/WazeemDeveloper)
 
-[![Mohomed-wazeem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohomed-wazeem&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mohomed-wazeem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohomed-wazeem&bg_color=1c1c1c&color=51f565&line=6e40c9&point=f1f1f1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
