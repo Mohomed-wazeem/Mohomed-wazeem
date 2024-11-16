@@ -21,6 +21,4 @@
 
 ![Mohomed-wazeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohomed-wazeem&theme=dark&show_icons=true&&hide=issues,contribs)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Mohomed-wazeem?ext=contest&theme=dark)](https://leetcode.com/Mohomed-wazeem)
-
 [![Mohomed-wazeem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohomed-wazeem&bg_color=1c1c1c&color=51f565&line=6e40c9&point=f1f1f1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
