@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Mohomed-wazeem
 
 ### MERN Stack Developer 
-<img align="right" width="350" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" style="margin-top: -20px;">
+<img align="right" width="350" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" style="margin-top: -40px;">
 
 - 🌱 I’m currently learning **MERN Stack** (MongoDB, Express.js, React.js, Node.js).  
 - 👯 I’m looking to collaborate on **Machine Learning** and **AI** projects.  
