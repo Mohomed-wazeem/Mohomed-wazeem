@@ -1,18 +1,14 @@
 ## Hi there 👋 It's me Mohomed-wazeem
 
 ### MERN Stack Developer 
-<div style="display: flex; align-items: center;">
-  <div>
-    - 🌱 I’m currently learning **MERN Stack** (MongoDB, Express.js, React.js, Node.js).  
-    - 👯 I’m looking to collaborate on **Machine Learning** and **AI** projects.  
-    - 🤔 I’m seeking guidance and opportunities for placements in **top-tier tech companies**.  
-    - 💬 Ask me about **MERN Stack, Web Development, and Tech Trends**!  
-    - 📫 How to reach me:  
-      [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/Mohomed-wazeem/)  
-      [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Mohomed-wazeem)  
-  </div>
-  <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="GIF" style="margin-left: 20px; margin-top: -40px;" width="350" height="290">
-</div>
+<img align="right" width="370" height="290" src="https://media.tenor.com/some-specific-id.gif">
+
+- 🌱 I’m currently learning **MERN Stack** (MongoDB, Express.js, React.js, Node.js).  
+- 👯 I’m looking to collaborate on **Machine Learning** and **AI** projects.  
+- 🤔 I’m seeking guidance and opportunities for placements in **top-tier tech companies**.  
+- 💬 Ask me about **MERN Stack, Web Development, and Tech Trends**!  
+- 📫 How to reach me:  
+  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/Mohomed-wazeem/)  
 
 ---
 
