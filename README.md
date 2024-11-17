@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack** (MongoDB, Express.js, React.js, Node.js).  
 - 👯 I’m looking to collaborate on **Machine Learning** and **AI** projects.  
-- 🤔 I’m seeking guidance and opportunities for placements in **top-tier tech companies**.  
+- 🤔 I’m seeking guidance and opportunities for placements in top-tier tech companies.  
 - 💬 Ask me about **MERN Stack, Web Development, and Tech Trends**!  
 - 📫 How to reach me:  
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/Mohomed-wazeem/)  
