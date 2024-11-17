@@ -1,8 +1,9 @@
 ## Hi there 👋 It's me Mohomed-wazeem
 
 ### MERN Stack Developer 
-<div align="right">
-  <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="350" height="290" style="margin-top: -20px;">
+<div style="position: relative;">
+  <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" 
+       width="350" height="290" style="position: absolute; right: 0; top: -20px;">
 </div>
 
 - 🌱 I’m currently learning **MERN Stack** (MongoDB, Express.js, React.js, Node.js).  
