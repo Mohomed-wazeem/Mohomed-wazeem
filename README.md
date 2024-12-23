@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Mohomed-wazeem
 
-### MERN Stack Developer 
+###  Full Stack Web Developer | MERN Stack Enthusiast 
 <img align="right" width="350" height="270" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - 🌱 I’m currently learning **MERN Stack** (MongoDB, Express.js, React.js, Node.js).  
